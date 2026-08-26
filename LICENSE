@@ -1,0 +1,30 @@
+CreatorHub 软件许可协议
+========================
+
+Copyright (c) 2026 CreatorHub 作者。保留所有权利。
+
+一、授权范围
+1. 个人用户可免费安装、使用本软件。
+2. 商业使用（企业、团队、盈利性项目等）需另行获得作者书面授权。
+
+二、明确禁止（违反即构成侵权）
+1. 未经授权转售、出租、出借，或以任何形式牟利分发本软件及其副本；
+2. 在闲鱼、淘宝、拼多多等任何平台售卖本软件；
+3. 去除、篡改本软件中的版权声明、许可信息或授权校验机制；
+4. 对本软件进行反向工程、反编译（法律法规允许的除外）。
+
+三、授权与激活
+本软件采用机器绑定激活：激活码与设备指纹绑定，复制到其他设备后激活失效。
+
+四、第三方组件
+随包分发的第三方组件（FFmpeg、whisper.cpp、ONNX Runtime、模型等）按各自许可协议
+（见 ThirdPartyLicenses/）授权，本协议不改变其许可条款。
+
+五、免责声明
+本软件按"现状"提供，作者不承担任何明示或默示担保，包括但不限于适销性、
+特定用途适用性与不侵权。因使用本软件造成的任何损失，作者不承担责任。
+
+English summary: This software is licensed for personal, non-commercial use only.
+Redistribution or resale on any marketplace (e.g. Xianyu, Taobao) is strictly
+prohibited. Commercial use requires a separate license from the author.
+Third-party components retain their own licenses (see ThirdPartyLicenses/).
